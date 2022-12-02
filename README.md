@@ -1,3 +1,8 @@
+# 修改为图片路径，换背景不用编译
+把对应分辨率图片放到~/图片 改名为bg.jpg  运行脚本
+也可自行修改脚本修改图片文件名和扩展名
+
+
 # elementaryOS-lockscreen-bgreplacer
 
 This script is meant to be used in Elementary OS 6 Odin. You must be root user in order for it to work. You need an image called texture.png inside your Pictures folder. Everytime greeter is updated, you need to run this again.
