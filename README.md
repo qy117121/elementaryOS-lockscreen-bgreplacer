@@ -30,7 +30,7 @@ To install dependencies:
 sudo apt install git
 sudo apt install -y gnome-settings-daemon libaccountsservice-dev libgdk-pixbuf2.0-dev libgranite-dev libgtk-3-dev libhandy-1-dev liblightdm-gobject-1-dev libmutter-6-dev libwingpanel-dev libx11-dev meson valac imagemagick-6.q16
 ``` 
-or
+elementary OS 7
 
 ```
 sudo apt install git
