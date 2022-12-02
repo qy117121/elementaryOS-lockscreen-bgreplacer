@@ -53,7 +53,7 @@ cd /tmp/
 Open a terminal and run the following git command:
 
 ```
-git clone https://github.com/Blackmanx/elementaryOS-lockscreen-bgreplacer bgreplacer
+git clone https://github.com/qy117121/elementaryOS-lockscreen-bgreplacer bgreplacer
 cd bgreplacer
 ```
 
