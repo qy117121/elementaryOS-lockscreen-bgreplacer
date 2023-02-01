@@ -64,13 +64,13 @@ cd bgreplacer
 ### Run script
 
 ```
-bash background.sh
+sudo bash background.sh
 ```
 
 or, if you want blur
 
 ```
-bash background-blur.sh
+sudo bash background-blur.sh
 ```
 
 Restart and done.
